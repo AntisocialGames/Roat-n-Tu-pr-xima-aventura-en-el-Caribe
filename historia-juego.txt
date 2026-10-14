@@ -1,0 +1,54 @@
+# OPERACIÓN DELTA — ARCHIVO EDITABLE DE HISTORIA
+# Edita el texto debajo de cada etiqueta. No cambies las etiquetas entre corchetes.
+# Guarda este archivo como UTF-8. En GitHub Pages, el juego cargará estos textos al abrirse.
+
+[INTRO_TITLE]
+OPERACIÓN DELTA
+
+[INTRO_TEXT]
+Roatán, 02:17 a. m. Lucía Reyes, una guía local, desapareció después de reportar una lancha que salía de noche. Tu unidad ATIC te asigna tres misiones: encontrarla, detener el tráfico de personas y llevarla al punto de extracción.
+
+[MISSION_1_TITLE]
+MISIÓN 1 — ENCUENTRA A LUCÍA
+
+[MISSION_1_BRIEF]
+Revisa la costa y reúne las tres señales que dejó Lucía. Los hombres que vigilan el muelle dispararán para impedir que llegues a la bitácora.
+
+[MISSION_1_CLEAR]
+Las tres señales confirman que Lucía fue trasladada en una lancha sin registrar. La bitácora indica que el siguiente movimiento saldrá antes del amanecer.
+
+[MISSION_2_TITLE]
+MISIÓN 2 — DETÉN EL TRÁFICO
+
+[MISSION_2_BRIEF]
+Intercepta el traslado y detén a los traficantes. Hay personas retenidas en el muelle: no les dispares. Sobrevive al fuego enemigo y neutraliza a los responsables.
+
+[MISSION_2_CLEAR]
+El traslado se detiene y las personas retenidas quedan a salvo. Lucía no está entre ellas. La radio de ATIC transmite una nueva ubicación: el almacén de extracción.
+
+[MISSION_3_TITLE]
+MISIÓN 3 — RESCATA A LUCÍA
+
+[MISSION_3_BRIEF]
+Tu superior ordena despejar el almacén y llevar a Lucía al punto de extracción de ATIC. Vence a los guardias y alcanza la señal amarilla para reunirte con ella.
+
+[ENDING_TITLE]
+ERA UNA ENTREGA
+
+[ENDING_TEXT]
+Lucía llega a tus brazos y pregunta: «¿De verdad estamos a salvo?». Sigues la orden de ATIC hasta el punto de extracción. Al llegar, varias figuras salen de las sombras. Llevan el símbolo de los Deltas.
+
+«La trajiste. Como acordamos», dice uno de ellos.
+
+Por la radio, tu superior responde: «Entrega confirmada. El expediente está cerrado».
+
+Entiendes demasiado tarde que nunca te enviaron a rescatarla. Te usaron para entregársela a los mismos hombres que estabas persiguiendo.
+
+[ENDING_QUOTE]
+Incluso la gente que se supone que te debe amar te puede traicionar. Así que no confíes en nadie.
+
+[QUOTE_CREDIT]
+Atribuida a Richard Ramirez, conocido como «The Night Stalker»
+
+[QUOTE_NOTE]
+La atribución de esta frase no está verificada.

@@ -1,0 +1,1 @@
+Reemplaza perfil.jpg y portada.jpg por tus imágenes.

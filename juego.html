@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#080d12">
+  <title>Operación Delta — Roatan 8-Bit Arcade</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="arcade-page">
+  <div class="grain"></div>
+  <header>
+    <strong>ROATAN<span>_ARCADE</span></strong>
+    <nav><a href="index.html">VOLVER AL ARCHIVO</a></nav>
+    <i>● GAME SIGNAL: LIVE</i>
+  </header>
+  <main>
+    <section id="game" class="game-section arcade-game-page">
+      <div class="game-heading">
+        <div><small>8-BIT ARCADE / HISTORIA FICTICIA</small><h2>Operación Delta</h2></div>
+        <span>3 MISIONES<br>ROATÁN · 02:17 AM</span>
+      </div>
+      <article class="arcade-shell">
+        <div class="arcade-top"><span>ROATAN 1985 <i>◆</i> OPERACIÓN DELTA</span><div class="arcade-audio-controls"><button id="arcade-ambience" type="button" aria-pressed="false">🌊 AMBIENTE: OFF</button><button id="arcade-music" type="button" aria-pressed="true">♫ MUSIC: ON</button></div></div>
+        <div class="arcade-frame">
+          <canvas id="arcade-canvas" width="480" height="270" role="img" aria-label="Juego arcade pixelado de investigación y rescate en Roatán"></canvas>
+          <div class="arcade-hud"><span id="arcade-mission">MISSION 00 / 03</span><span id="arcade-objective">PREPARA EL EQUIPO</span><span id="arcade-health">♥ ♥ ♥</span></div>
+          <div class="arcade-overlay" id="arcade-overlay">
+            <div class="arcade-card">
+              <small>8-BIT INVESTIGATION / FICCIÓN</small>
+              <h3 id="arcade-intro-title">OPERACIÓN DELTA</h3>
+              <p id="arcade-intro-text">Busca a Lucía, detén el tráfico y llega al punto de rescate. Tres misiones. Una traición.</p>
+              <p class="arcade-instructions">MOVER: WASD / FLECHAS <b>·</b> DISPARAR: ESPACIO <b>·</b> TAMBIÉN PUEDES USAR LOS CONTROLES TÁCTILES.</p>
+              <button id="arcade-start" type="button">JUGAR <b>▶</b></button>
+              <small class="arcade-fiction">Historia ficticia; no describe hechos reales ni acusa a personas reales.</small>
+            </div>
+          </div>
+        </div>
+        <div class="arcade-controller">
+          <div class="arcade-dpad"><button type="button" data-control="up" aria-label="Mover arriba">▲</button><button type="button" data-control="left" aria-label="Mover a la izquierda">◀</button><button type="button" data-control="down" aria-label="Mover abajo">▼</button><button type="button" data-control="right" aria-label="Mover a la derecha">▶</button></div>
+          <button type="button" class="arcade-fire" data-control="fire">FIRE <b>●</b></button>
+        </div>
+        <div class="arcade-footer"><span>3 MISIONES / 1 EXPEDIENTE</span><span>SOUND: AMBIENTE + CHIPTUNE + SFX</span></div>
+      </article>
+    </section>
+  </main>
+  <script src="game.js"></script>
+</body>
+</html>
